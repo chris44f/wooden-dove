@@ -65,3 +65,22 @@ color: #422910;
 .dropdowncakes li:hover{
   text-decoration: underline;
 }
+
+#homepage_image {
+  width: 100vw;
+}
+
+footer {
+  width: 100vw;
+  background-color: #ffffff;
+  height: 15vw;
+  border-top: hsl(168, 72%, 87%) solid 3px;
+}
+
+.footer_information {
+color: hsl(8, 59%, 41%);
+right: 0;
+border: none;
+text-align: right;
+line-height: 40px;
+}
