@@ -3,7 +3,6 @@ header {
   background-color: #ffffff;
   height: 15vw;
   border-bottom: hsl(168, 72%, 87%) solid 3px;
-  position:fixed;
   top:0;
   overflow:visible;
 }
@@ -68,6 +67,11 @@ color: #422910;
 
 #homepage_image {
   width: 100vw;
+}
+
+main {
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 footer {
